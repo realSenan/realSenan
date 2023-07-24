@@ -10,6 +10,7 @@
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
 </div> 
 <div>
   <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/photopea-%23323330.svg?style=for-the-badge&logo=photopea&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%23323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
  </div> 
  <div>
   <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
