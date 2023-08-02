@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zodwo&color=59A5FE&style=for-the-badge" alt="ceyhun1999" /> </p>
 
-### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝑺𝒌𝒊𝒍𝒍𝒔 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
