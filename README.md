@@ -1,64 +1,59 @@
-<h2 align="left">Hi 👋! My name is Senan and I'm a FrontEnd Devleoper from Azerbaijan.</h2>
+ <h1  align='center'> 
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I%60m+Sanan;I%60m+Frontend+Developer" alt="Typing SVG" />
+</h1>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zodwo&color=59A5FE&style=for-the-badge" alt="ceyhun1999" /> </p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝗦𝗸𝗶𝗹𝗹𝘀 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+
+<div>
+  <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div> 
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white"> 
+ </div>   
+ <div>
+  <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/photopea-%23323330.svg?style=for-the-badge&logo=photopea&logoColor=white">
+ </div> 
+ <div>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%23323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/CodePen-%23323330?style=for-the-badge&logo=codepen&logoColor=white">
+ </div> 
+  
+  
+  
+  
+&nbsp;  
+### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
+  - Bachelor of BDU
+  - Courses
+    - Frontend Development (Algorithmics Global)
+    - Frontend Development (Div Academy)
+    - JavaScript (Beonmax)
+    - JavaScript / jQuery (Beonmax)
+    - Web Developepment (Beonmax)
+    - HTML/CSS (Beonmax)
+
+### 📱 Contact 𝚖𝚎:
+
+<a href="mailto:senanm260@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<a href="https://github.com/zodwo" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=zodwo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div display="flex">
+  <img src="https://readme-stats.clckblog.space/api?username=zodwo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zodwo's GitHub stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodwo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC0TToVi5roDq0n60W1R9E3Q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/17msenan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="sanan.m@div.edu.az" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zodwo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zodwo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=zodwo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zodwo/zodwo/output/snake.svg" alt="Snake animation" />
-
-###
