@@ -48,7 +48,7 @@
 <a href="mailto:senanm260@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <a href="https://github.com/zodwo" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=zodwo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
