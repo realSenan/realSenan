@@ -45,7 +45,7 @@
 
 ### 📱 Contact 𝚖𝚎:
 
-<a href="mailto:senanm260@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:sanan.frw@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
