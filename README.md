@@ -34,7 +34,6 @@
   
 &nbsp;  
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
-  - Bachelor of BDU
   - Courses
     - Frontend Development (Algorithmics Global)
     - Frontend Development (Div Academy)
