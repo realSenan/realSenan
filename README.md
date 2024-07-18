@@ -3,7 +3,7 @@
 </h1>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zodwo&color=59A5FE&style=for-the-badge" alt="ceyhun1999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realSenan&color=59A5FE&style=for-the-badge" alt="ceyhun1999" /> </p>
 
 ### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝗦𝗸𝗶𝗹𝗹𝘀 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 
@@ -49,10 +49,10 @@
 <a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="https://github.com/zodwo" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=zodwo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/realSenan" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=realSenan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div display="flex">
-  <img src="https://readme-stats.clckblog.space/api?username=zodwo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zodwo's GitHub stats" />
+  <img src="https://readme-stats.clckblog.space/api?username=realSenan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="realSenan's GitHub stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zodwo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realSenan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
