@@ -27,17 +27,17 @@ Beonmax — JavaScript, jQuery, Web Development, HTML/CSS
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realSenan&theme=github_dark" />
 </div>
 
-<a href="https://github.com/realSenan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realSenan&bg_color=1c1917&color=ffffff&line=00C4FF&point=00C"/>
- </a>
-   
-<br/><br/>
+
+<br/>
 
 📱 Contact Me
 
-<br/>
 <a href="mailto:sanan.frw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
-<a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://www.linkedin.com/in/realsenan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
 <a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-323330?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
 <a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 
+
+<a href="https://github.com/realSenan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realSenan&bg_color=1c1917&color=ffffff&line=00C4FF&point=00C"/>
+ </a>
