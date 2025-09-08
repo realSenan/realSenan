@@ -1,58 +1,24 @@
- <h1  align='center'> 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I%60m+Sanan;I%60m+Frontend+Developer" alt="Typing SVG" />
-</h1>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanan;Fullstack+Developer;Frontend+%7C+Backend+%7C+UI%2FUX;Always+learning+new+technologies" alt="Typing SVG" /> </h1><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=realSenan&color=00C4FF&style=for-the-badge" alt="profile views" /> </p>
+💻 Languages, Frameworks & Tools
+Frontend
+<div> <img src="https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=CC6699"> <img src="https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C"> <img src="https://img.shields.io/badge/TailwindCSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img src="https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white"> </div>
+Backend
+<div> <img src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933"> <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=47A248"> <img src="https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=336791"> <img src="https://img.shields.io/badge/REST%20API-%23323330.svg?style=for-the-badge&logo=fastapi&logoColor=white"> </div>
+Tools & Platforms
+<div> <img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/GitHub-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7"> <img src="https://img.shields.io/badge/Vercel-%23323330.svg?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=2496ED"> <img src="https://img.shields.io/badge/Figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=F24E1E"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23323330.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF"> </div>
+🎓 Education
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realSenan&color=59A5FE&style=for-the-badge" alt="ceyhun1999" /> </p>
+Algorithmics Global — Frontend Development
 
-### 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝗦𝗸𝗶𝗹𝗹𝘀 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+Div Academy — Frontend Development
 
-<div>
-  <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-323330?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div> 
-<div>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white"> 
- </div>   
- <div>
-  <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/photopea-%23323330.svg?style=for-the-badge&logo=photopea&logoColor=white">
- </div> 
- <div>
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%23323330.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/CodePen-%23323330?style=for-the-badge&logo=codepen&logoColor=white">
- </div> 
-  
-  
-  
-  
-&nbsp;  
-### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
-  - Courses
-    - Frontend Development (Algorithmics Global)
-    - Frontend Development (Div Academy)
-    - JavaScript (Beonmax)
-    - JavaScript / jQuery (Beonmax)
-    - Web Developepment (Beonmax)
-    - HTML/CSS (Beonmax)
+Beonmax — JavaScript, jQuery, Web Development, HTML/CSS
 
-### 📱 Contact 𝚖𝚎:
+📊 GitHub Stats
+<div display="flex"> <img src="https://readme-stats.clckblog.space/api?username=realSenan&show_icons=true&count_private=true&title_color=00C4FF&text_color=ffffff&icon_color=00C4FF&bg_color=1c1917&hide_border=true" alt="realSenan's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=realSenan&stroke=ffffff&background=1c1917&ring=00C4FF&fire=00C4FF&currStreakNum=ffffff&currStreakLabel=00C4FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </div><a href="https://github.com/realSenan" align="left"> <img src="https://readme-stats.clckblog.space/api/top-langs/?username=realSenan&langs_count=10&title_color=00C4FF&text_color=ffffff&icon_color=00C4FF&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /> </a>
+📱 Contact Me
 
-<a href="mailto:sanan.frw@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23323330?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-<a href="https://github.com/realSenan" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=realSenan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div display="flex">
-  <img src="https://readme-stats.clckblog.space/api?username=realSenan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="realSenan's GitHub stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realSenan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
+<a href="mailto:sanan.frw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://wa.me/994505018809" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-323330?style=for-the-badge&logo=whatsapp&logoColor=25D366"></a>
+<a href="https://www.instagram.com/17msenan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
