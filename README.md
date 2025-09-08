@@ -4,7 +4,7 @@ Frontend
 <div>  <br/>
  
   <img src="https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=CC6699"> <img src="https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=563D7C"> <img src="https://img.shields.io/badge/TailwindCSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=3178C6"> <img src="https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=next.js&logoColor=white"> </div>
-<br/> 
+
 Backend
 <br/> 
 <div> <img src="https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=339933"> <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=47A248"> <img src="https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=336791"> <img src="https://img.shields.io/badge/REST%20API-%23323330.svg?style=for-the-badge&logo=fastapi&logoColor=white"> </div>
@@ -19,7 +19,7 @@ Div Academy — Frontend Development
 <br/> <br/>
 Beonmax — JavaScript, jQuery, Web Development, HTML/CSS
 
-<br/><br/>
+<br/>
  <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realSenan&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realSenan&theme=github_dark" />
@@ -30,11 +30,13 @@ Beonmax — JavaScript, jQuery, Web Development, HTML/CSS
 
 <a href="https://github.com/realSenan">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=realSenan&bg_color=1c1917&color=ffffff&line=00C4FF&point=00C
-
+   </a>
+   
 <br/><br/>
 <br/><br/>
 
 📱 Contact Me
+<br/>
 <br/>
 <a href="mailto:sanan.frw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 <a href="https://www.linkedin.com/in/sanan-mammadov-550250202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
